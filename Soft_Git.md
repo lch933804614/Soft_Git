@@ -1,4 +1,4 @@
 # Information
 Repository for Software Engineering Class
 ## User
-ChagHyeon(202014980)
+ChangHyeon(202014980)
